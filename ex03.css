@@ -1,0 +1,27 @@
+.box{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    gap: 16px;
+}
+
+
+.eevee{
+    padding: 16px;
+    border: 2px dashed rgb(196, 131, 35);
+}
+
+
+.vulpix{
+    padding: 16px;
+    border: 2px dashed rgb(200, 222, 233);
+}
+
+
+.jigglypuff{
+    padding: 16px;
+    border: 2px dashed rgb(255, 153, 246);
+}
